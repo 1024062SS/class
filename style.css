@@ -1,0 +1,36 @@
+body
+{
+    font-family :  'Akaya Telivigala', cursive;
+    background: aquamarine;
+}
+.header_div
+{
+    background:whitesmoke;
+    color:blue
+}
+.header_div p{
+    font-family: 'Yusei Magic', sans-serif;
+    color:skyblue;
+    letter-spacing:3px;
+    font: size 13px;
+    font-weight:bold;
+}
+.main_div button{
+   font-family:'Akaya Telivigala', cursive;
+   margin-top : 30px;
+   width: 130px;
+   font-weight:bolder;
+   letter-spacing:4px;
+
+}
+.copy_right_footer {
+    position:fixed;
+    color:blueviolet;
+    bottom:0;
+    width:100%;
+    font-size:18px;
+    background-color: bisque;
+    line-height:4;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(rgb(213, 171, 229);
+}
